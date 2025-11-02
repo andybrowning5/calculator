@@ -1,0 +1,13 @@
+[project]
+name = "calculator"
+version = "0.1.0"
+description = "A tiny Python calculator library with a CLI."
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+
+authors = [ {"name": "Andy Brown"} ]
+
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
